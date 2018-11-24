@@ -173,6 +173,11 @@ margin-bottom:1em;
 margin-left:.8em;
 margin-right:.8em;
 }
+
+main article h4 {
+text-align: center;
+}
+
 main article a:link, main article a:visited {
 color:#f00;
 font-size:.95em;
