@@ -1,0 +1,104 @@
+
+/*ETIQUETAS*/
+
+#contenidos{
+	width: 1000px;
+	height: auto;
+	margin:auto;
+	position: relative;
+	background: #F0B429;
+}	
+body{
+	background-image: url(../Img/img1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+	font-family: verdana;
+	margin-left: 10px;
+	font-size: 40px;
+	text-align: center;
+}
+
+h2{
+	font-family: arial;
+	margin-left: 10px;
+	font-size: 20px;
+	text-align: left;
+}
+header{
+	width: 1000px;
+	height: 120px;
+	background: #F47920;
+	border-radius: 10px;
+}
+nav{
+	width: 1000px;
+	height: 100px;
+	background: #808080;
+	border-radius: 10px;
+
+}
+ul{
+	margin: auto;
+	padding-top: 10px;
+}
+li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+	background: yellow;
+	margin: 3px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px white inset;
+}
+
+section{
+	width: 700px;
+	background: #005883;
+	height: 600px;
+	float: left;
+	border-radius: 10px;
+	margin-top: 20px;
+
+}
+
+aside{
+	width: 280px;
+	height: 600px;
+	float: left;
+	margin-left: 20px;
+	background: #F0B429;
+	border-radius: 10px;
+	margin-top: 20px;
+
+}
+
+footer{
+	width: 1000px;
+	height: 40px;
+	float: left;
+	margin-top: 20px;
+	background: #B3B3B3;
+	border-radius: 10px;
+
+}
+/*CLASES*/
+
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px}
+
+.menu:link{color: black; text-decoration: none;}
+.menu:visited{color: black; text-decoration: none;}
+.menu:hover{color: black; text-decoration: none; text-shadow: 0 0 20px white;}
+.menu:active{color: black; text-decoration: none;}
+
+/*SEUDOCLASES*/
+
+
+
+
+
+
+
+
