@@ -366,3 +366,25 @@ main article p {
 body main article aside {
 	text-align: left;
 }
+#lecturas{
+	width: auto;
+	height: 800px;
+	padding-top: 10px;
+	display: flex;
+	justify-content: center;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+    
+}
+
+#main.lecturas{
+	width:800%;
+	height:500px;	
+	margin:auto;
+	padding-top:10px;	
+	display:flex;	
+	justify-content:center;
+    
+}
